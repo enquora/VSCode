@@ -1,0 +1,1202 @@
+[
+    {
+        "className": "CTPlatform",
+        "superclass": "CTBasePlatform",
+        "ignore": false
+    },
+    {
+        "className": "_CTWindowFrameAnimation",
+        "superclass": "CTAnimation",
+        "ignore": true
+    },
+    {
+        "className": "CTString",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTImageAndTextView",
+        "superclass": "CTView",
+        "ignore": true
+    },
+    {
+        "className": "CTControl",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "_CTMenuBarWindow",
+        "superclass": "CTPanel",
+        "ignore": false
+    },
+    {
+        "className": "CAFlashLayer",
+        "superclass": "CALayer",
+        "ignore": false
+    },
+    {
+        "className": "_CTColorPanelPreview",
+        "superclass": "CTView",
+        "ignore": true
+    },
+    {
+        "className": "CTBasePlatform",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTSplitView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "_CTMenuManager",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTBrowser",
+        "superclass": "CTControl",
+        "ignore": false
+    },
+    {
+        "className": "CTDocumentController",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTAppBootstrapper",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTDragServer",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTMenuBarView",
+        "superclass": "_CTMenuView",
+        "ignore": false
+    },
+    {
+        "className": "CALayer",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTCibOutletConnector",
+        "superclass": "CTCibOutletConnector",
+        "ignore": false
+    },
+    {
+        "className": "CTImage",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTTableHeaderView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "CTSearchField",
+        "superclass": "CTTextField",
+        "ignore": false
+    },
+    {
+        "className": "_CTCibWindowTemplate",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTCibConnector",
+        "superclass": "CTCibConnector",
+        "ignore": false
+    },
+    {
+        "className": "CTClipView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "CTPanel",
+        "superclass": "CTWindow",
+        "ignore": false
+    },
+    {
+        "className": "CTOutlineView",
+        "superclass": "CTTableView",
+        "ignore": false
+    },
+    {
+        "className": "AristoHUDThemeDescriptor",
+        "superclass": "BKThemeDescriptor",
+        "ignore": false
+    },
+    {
+        "className": "CTThemeBlend",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTMenuWindow",
+        "superclass": "CTWindow",
+        "ignore": true
+    },
+    {
+        "className": "CTEvent",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTCibLoadDelegate",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "BKThemedObjectTemplate",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "_CTBorderlessWindowView",
+        "superclass": "_CTWindowView",
+        "ignore": false
+    },
+    {
+        "className": "_CTBorderlessBridgeWindowView",
+        "superclass": "_CTWindowView",
+        "ignore": false
+    },
+    {
+        "className": "CTScroller",
+        "superclass": "CTControl",
+        "ignore": false
+    },
+    {
+        "className": "CTColorPanel",
+        "superclass": "CTPanel",
+        "ignore": false
+    },
+    {
+        "className": "CTAlert",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTButton",
+        "superclass": "CTControl",
+        "ignore": false
+    },
+    {
+        "className": "_CTToolbarShowColorsItem",
+        "superclass": "CTToolbarItem",
+        "ignore": false
+    },
+    {
+        "className": "_CTMenuItemView",
+        "superclass": "CTView",
+        "ignore": true
+    },
+    {
+        "className": "_CTObservableArray",
+        "superclass": "CTMutableArray",
+        "ignore": false
+    },
+    {
+        "className": "_CTMenuItemMenuBarView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "CTCibOutletConnector",
+        "superclass": "CTCibConnector",
+        "ignore": false
+    },
+    {
+        "className": "CTWindow",
+        "superclass": "CTResponder",
+        "ignore": false
+    },
+    {
+        "className": "BKShowcaseController",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTBrowserTableView",
+        "superclass": "CTTableView",
+        "ignore": false
+    },
+    {
+        "className": "_CTMenuView",
+        "superclass": "CTView",
+        "ignore": true
+    },
+    {
+        "className": "CTBundle",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTCornerView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "CTObjectController",
+        "superclass": "CTController",
+        "ignore": false
+    },
+    {
+        "className": "_CTOutlineViewTableViewDataSource",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTFlashView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "_CTAccordionItemView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "CTToolbar",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTImageView",
+        "superclass": "CTControl",
+        "ignore": false
+    },
+    {
+        "className": "_CTDOMDataTransferPasteboard",
+        "superclass": "CTPasteboard",
+        "ignore": false
+    },
+    {
+        "className": "CTFont",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTColorWell",
+        "superclass": "CTControl",
+        "ignore": false
+    },
+    {
+        "className": "CTDOMWindowLayer",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTDocModalWindowView",
+        "superclass": "_CTWindowView",
+        "ignore": false
+    },
+    {
+        "className": "_CTToolbarView",
+        "superclass": "CTView",
+        "ignore": true
+    },
+    {
+        "className": "CTResponder",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTCheckBox",
+        "superclass": "CTButton",
+        "ignore": false
+    },
+    {
+        "className": "_CTMenuItemSubmenuIndicatorView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "_CTKeyValueOrBinding",
+        "superclass": "CTKeyValueBinding",
+        "ignore": false
+    },
+    {
+        "className": "CTTextField",
+        "superclass": "CTControl",
+        "ignore": false
+    },
+    {
+        "className": "_CTDropOperationDrawingView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "CTScrollView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "CTAccordionViewItem",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTBezierPath",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTObservationProxy",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTWebScriptObject",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTShadowView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "_CTStandardWindowView",
+        "superclass": "_CTWindowView",
+        "ignore": false
+    },
+    {
+        "className": "AppController",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "BKThemeTemplate",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CAPropertyAnimation",
+        "superclass": "CAAnimation",
+        "ignore": false
+    },
+    {
+        "className": "CTAnimation",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTMenuItem",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTWindowView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "CTTableView",
+        "superclass": "CTControl",
+        "ignore": false
+    },
+    {
+        "className": "CAMediaTimingFunction",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CABasicAnimation",
+        "superclass": "CAPropertyAnimation",
+        "ignore": false
+    },
+    {
+        "className": "_CTBrowserLeafView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "BKShowcaseCell",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "CTTabView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "_CTTableDrawView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "_CTKeyValueAndBinding",
+        "superclass": "CTKeyValueBinding",
+        "ignore": false
+    },
+    {
+        "className": "__CTColorWheel",
+        "superclass": "CTView",
+        "ignore": true
+    },
+    {
+        "className": "CTObject",
+        "superclass": null,
+        "ignore": false
+    },
+    {
+        "className": "CTColorPicker",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTGraphicsContext",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTCibClassSwapper",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTBrowserResizeControl",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "_CTThemeAttribute",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTTabLabel",
+        "superclass": "CTView",
+        "ignore": true
+    },
+    {
+        "className": "CTScreen",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTMenuItemStandardView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "CTWebView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "CTSecureTextField",
+        "superclass": "CTTextField",
+        "ignore": false
+    },
+    {
+        "className": "_CTCibCustomView",
+        "superclass": "CTView",
+        "ignore": true
+    },
+    {
+        "className": "CTColorWheelColorPicker",
+        "superclass": "CTColorPicker",
+        "ignore": true
+    },
+    {
+        "className": "_CTMenuItemArrowView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "_CTCibCustomResource",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTOpenPanel",
+        "superclass": "CTPanel",
+        "ignore": false
+    },
+    {
+        "className": "CTBasePlatformString",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTHUDWindowView",
+        "superclass": "_CTWindowView",
+        "ignore": false
+    },
+    {
+        "className": "_CTToolbarFlexibleSpaceItem",
+        "superclass": "CTToolbarItem",
+        "ignore": false
+    },
+    {
+        "className": "_CTCibKeyedUnarchiver",
+        "superclass": "CTKeyedUnarchiver",
+        "ignore": false
+    },
+    {
+        "className": "CTCibControlConnector",
+        "superclass": "CTCibConnector",
+        "ignore": false
+    },
+    {
+        "className": "CTNinePartImage",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTMenuItemSeparatorView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "ThemedView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "_CTToolbarItemView",
+        "superclass": "CTControl",
+        "ignore": false
+    },
+    {
+        "className": "_CTSegmentItem",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTControllerSelectionProxy",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTCibObjectData",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTKeyBinding",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTColorPanelSwatches",
+        "superclass": "CTView",
+        "ignore": true
+    },
+    {
+        "className": "_CTMenuItemMenuBarSubmenuIndicatorView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "CTDocument",
+        "superclass": "CTResponder",
+        "ignore": false
+    },
+    {
+        "className": "AristoThemeDescriptor",
+        "superclass": "BKThemeDescriptor",
+        "ignore": false
+    },
+    {
+        "className": "CTTreeNode",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTCib",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTDisclosureButton",
+        "superclass": "CTButton",
+        "ignore": false
+    },
+    {
+        "className": "CTToolbarItem",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTTabLabelsView",
+        "superclass": "CTView",
+        "ignore": true
+    },
+    {
+        "className": "CTRadio",
+        "superclass": "CTButton",
+        "ignore": false
+    },
+    {
+        "className": "CTMenu",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTAccordionView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "CTFontManager",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTPlatformWindow",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTView",
+        "superclass": "CTResponder",
+        "ignore": false
+    },
+    {
+        "className": "CTTheme",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTShadow",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTSavePanel",
+        "superclass": "CTPanel",
+        "ignore": false
+    },
+    {
+        "className": "CTCursor",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTToolbarSeparatorItem",
+        "superclass": "CTToolbarItem",
+        "ignore": false
+    },
+    {
+        "className": "CTPlatformString",
+        "superclass": "CTBasePlatformString",
+        "ignore": false
+    },
+    {
+        "className": "CTViewController",
+        "superclass": "CTResponder",
+        "ignore": false
+    },
+    {
+        "className": "_CTTableColumnHeaderView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "CTSlider",
+        "superclass": "CTControl",
+        "ignore": false
+    },
+    {
+        "className": "_CTBrowserTableDelegate",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTButtonBar",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "CTSliderColorPicker",
+        "superclass": "CTColorPicker",
+        "ignore": true
+    },
+    {
+        "className": "CTSegmentedControl",
+        "superclass": "CTControl",
+        "ignore": false
+    },
+    {
+        "className": "CTThreePartImage",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTPopUpButton",
+        "superclass": "CTButton",
+        "ignore": false
+    },
+    {
+        "className": "CTFlashMovie",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTWindowController",
+        "superclass": "CTResponder",
+        "ignore": false
+    },
+    {
+        "className": "_CTThemeKeyedUnarchiver",
+        "superclass": "CTKeyedUnarchiver",
+        "ignore": false
+    },
+    {
+        "className": "CTIndexSet",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTCookie",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "BKThemeDescriptorCell",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "_CTBrowserScrollView",
+        "superclass": "CTScrollView",
+        "ignore": false
+    },
+    {
+        "className": "CTBox",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "_CTCibProxyObject",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTCibConnector",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTViewAnimation",
+        "superclass": "CTAnimation",
+        "ignore": false
+    },
+    {
+        "className": "CAAnimation",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTOutlineViewTableViewDelegate",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTDraggingInfo",
+        "superclass": "CTObject",
+        "ignore": true
+    },
+    {
+        "className": "CTProgressIndicator",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "CTApplication",
+        "superclass": "CTResponder",
+        "ignore": false
+    },
+    {
+        "className": "CTTabViewItem",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTCollectionView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "CTCollectionViewItem",
+        "superclass": "CTViewController",
+        "ignore": false
+    },
+    {
+        "className": "CTController",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTCibCustomObject",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "BKThemeDescriptor",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTTexturedWindowHeadView",
+        "superclass": "CTView",
+        "ignore": false
+    },
+    {
+        "className": "CTTableColumn",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTColor",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTKeyValueBinding",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTDisplayServer",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTCibControlConnector",
+        "superclass": "CTCibControlConnector",
+        "ignore": false
+    },
+    {
+        "className": "CTPasteboard",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTArrayController",
+        "superclass": "CTObjectController",
+        "ignore": false
+    },
+    {
+        "className": "_CTToolbarSpaceItem",
+        "superclass": "CTToolbarItem",
+        "ignore": false
+    },
+    {
+        "className": "CTRadioGroup",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTUnarchiveFromDataTransformer",
+        "superclass": "CTValueTransformer",
+        "ignore": false
+    },
+    {
+        "className": "CTIsNilTransformer",
+        "superclass": "CTValueTransformer",
+        "ignore": false
+    },
+    {
+        "className": "CTNegateBooleanTransformer",
+        "superclass": "CTValueTransformer",
+        "ignore": false
+    },
+    {
+        "className": "_CTNotificationRegistry",
+        "superclass": "CTObject",
+        "ignore": true
+    },
+    {
+        "className": "_CTKVOProxy",
+        "superclass": "CTObject",
+        "ignore": true
+    },
+    {
+        "className": "CTNull",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTMutableIndexSet",
+        "superclass": "CTIndexSet",
+        "ignore": false
+    },
+    {
+        "className": "CTValueTransformer",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTUndoGrouping",
+        "superclass": "CTObject",
+        "ignore": true
+    },
+    {
+        "className": "CTSet",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTProxy",
+        "superclass": null,
+        "ignore": false
+    },
+    {
+        "className": "CTOperationQueue",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTKeyedArchiver",
+        "superclass": "CTCoder",
+        "ignore": false
+    },
+    {
+        "className": "CTInvocationOperation",
+        "superclass": "CTOperation",
+        "ignore": false
+    },
+    {
+        "className": "CTCountedSet",
+        "superclass": "CTMutableSet",
+        "ignore": false
+    },
+    {
+        "className": "CTArray",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTURLRequest",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTRunLoop",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTNumber",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTNotificationObserver",
+        "superclass": "CTObject",
+        "ignore": true
+    },
+    {
+        "className": "_CTKVOModelDictionarySubclass",
+        "superclass": null,
+        "ignore": false
+    },
+    {
+        "className": "CTException",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTCoder",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTKVCArray",
+        "superclass": "CTArray",
+        "ignore": false
+    },
+    {
+        "className": "CTDictionary",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTData",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTUserSessionManager",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTURLConnection",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTURL",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTTimer",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTSortDescriptor",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTOperation",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTNotificationCenter",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTNotification",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTKeyedArchiverValue",
+        "superclass": "CTValue",
+        "ignore": true
+    },
+    {
+        "className": "CTMutableArray",
+        "superclass": "CTArray",
+        "ignore": false
+    },
+    {
+        "className": "CTWebDAVManager",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTIsNotNilTransformer",
+        "superclass": "CTValueTransformer",
+        "ignore": false
+    },
+    {
+        "className": "CTValue",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTFunctionOperation",
+        "superclass": "CTOperation",
+        "ignore": false
+    },
+    {
+        "className": "CTMutableDictionary",
+        "superclass": "CTDictionary",
+        "ignore": false
+    },
+    {
+        "className": "CTAttributedString",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTArrayEnumerator",
+        "superclass": "CTEnumerator",
+        "ignore": true
+    },
+    {
+        "className": "CTURLResponse",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTJSONPConnection",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTDate",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTKeyedUnarchiver",
+        "superclass": "CTCoder",
+        "ignore": false
+    },
+    {
+        "className": "CTEnumerator",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTHTTPURLResponse",
+        "superclass": "CTURLResponse",
+        "ignore": false
+    },
+    {
+        "className": "CTMutableSet",
+        "superclass": "CTSet",
+        "ignore": false
+    },
+    {
+        "className": "CTPropertyListSerialization",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTKVOForwardingObserver",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTKVOModelSubclass",
+        "superclass": null,
+        "ignore": false
+    },
+    {
+        "className": "CTInvocation",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "CTMutableAttributedString",
+        "superclass": "CTAttributedString",
+        "ignore": false
+    },
+    {
+        "className": "_CTReverseArrayEnumerator",
+        "superclass": "CTEnumerator",
+        "ignore": true
+    },
+    {
+        "className": "_CTUndoManagerProxy",
+        "superclass": "CTProxy",
+        "ignore": false
+    },
+    {
+        "className": "CTUndoManager",
+        "superclass": "CTObject",
+        "ignore": false
+    },
+    {
+        "className": "_CTRunLoopPerform",
+        "superclass": "CTObject",
+        "ignore": true
+    },
+    {
+        "className": "_CTDictionaryValueEnumerator",
+        "superclass": "CTEnumerator",
+        "ignore": true
+    }
+]
