@@ -285,6 +285,18 @@
         			<key>name</key>
         			<string>storage.type.id.js.objj</string>
         		</dict>
+				<dict>
+        			<key>match</key>
+        			<string>@ref</string>
+        			<key>name</key>
+        			<string>storage.type.id.js.objj</string>
+        		</dict>
+				<dict>
+        			<key>match</key>
+        			<string>@deref</string>
+        			<key>name</key>
+        			<string>storage.type.id.js.objj</string>
+        		</dict>
 		<dict>
 			<key>match</key>
 			<string>\b(YES|NO|Nil|nil)\b</string>
@@ -2531,7 +2543,7 @@
 		<key>import</key>
 		<dict>
 			<key>begin</key>
-			<string>^\s*#import\b</string>
+			<string>^\s*(#import|@global)\b</string>
 			<key>beginCaptures</key>
 			<dict>
 				<key>0</key>
