@@ -36,6 +36,13 @@
 					".J"
 				],
 				"configuration": "./language-configuration.json"
+			},
+			{
+				"id" : "cib",
+				"aliases": ["Cib file"],
+				"extensions": [
+					".cib"
+				]
 			}
 		],
 		"snippets": [
@@ -49,7 +56,13 @@
 				"language": "objj",
 				"scopeName": "source.js.objj",
 				"path": "./syntaxes/Objective-J.tmLanguage"
+			},
+			{
+				"language": "cib",
+				"scopeName": "source.js.jsx",
+				"path": "./syntaxes/JavascriptReact.tmLanguage.json" 
 			}
+
 		]
 	},
 	"devDependencies": {
